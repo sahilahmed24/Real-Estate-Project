@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Real-Estate-Project/static/css/main.72193086.chunk.css",
+    "main.js": "/Real-Estate-Project/static/js/main.e61d797f.chunk.js",
+    "main.js.map": "/Real-Estate-Project/static/js/main.e61d797f.chunk.js.map",
+    "runtime-main.js": "/Real-Estate-Project/static/js/runtime-main.1aaa5854.js",
+    "runtime-main.js.map": "/Real-Estate-Project/static/js/runtime-main.1aaa5854.js.map",
+    "static/js/2.954329ba.chunk.js": "/Real-Estate-Project/static/js/2.954329ba.chunk.js",
+    "static/js/2.954329ba.chunk.js.map": "/Real-Estate-Project/static/js/2.954329ba.chunk.js.map",
+    "index.html": "/Real-Estate-Project/index.html",
+    "static/css/main.72193086.chunk.css.map": "/Real-Estate-Project/static/css/main.72193086.chunk.css.map",
+    "static/js/2.954329ba.chunk.js.LICENSE.txt": "/Real-Estate-Project/static/js/2.954329ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aaa5854.js",
+    "static/js/2.954329ba.chunk.js",
+    "static/css/main.72193086.chunk.css",
+    "static/js/main.e61d797f.chunk.js"
+  ]
+}
