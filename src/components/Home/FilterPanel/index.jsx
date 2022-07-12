@@ -25,7 +25,7 @@ const FilterPanel = ({
       />
     </div>
     <div className='input-group'>
-      <p className='label'>Cuisine</p>
+      <p className='label'>City</p>
       {cuisines.map((cuisine) => (
         <CheckboxProton
           key={cuisine.id}

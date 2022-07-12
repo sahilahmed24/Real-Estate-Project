@@ -2,21 +2,30 @@ import React from 'react';
 import './styles.css';
 
 const ListItem = ({
-  item: { coverSrc, title, price, deliveryFee, serviceTime, rating },
+  item: { coverSrc, address, rooms,  title, price, square,bathroom, deliveryFee, serviceTime, rating },
 }) => (
   <div className='listItem-wrap'>
-    <img src={coverSrc} alt='' />
+    <img src={coverSrc} alt='image' />
     <header>
-      <h2>{title}</h2>
-      <span>{rating}</span>
+      <h1>₹{price}</h1>
+      <span>🌟{rating}</span>
     </header>
+    <body>
+      <h2 >{title}</h2>
+
+      <small>{address}</small>
+    </body>
+
+    <hr />
     <footer>
       <p>
-        <b>{serviceTime}</b> <span> Delivery Fee ${deliveryFee}</span>
+        <div>Rooms {rooms}</div>
       </p>
-      <p>
-        <b>${price}</b>
-      </p>
+
+      <p>Bathrooms: {bathroom}</p>
+
+      <p>Area: {square}</p>
+      
     </footer>
   </div>
 );

@@ -12,9 +12,9 @@ const Home = () => {
   const [selectedPrice, setSelectedPrice] = useState([1000, 5000]);
 
   const [cuisines, setCuisines] = useState([
-    { id: 1, checked: false, label: 'American' },
-    { id: 2, checked: false, label: 'Chinese' },
-    { id: 3, checked: false, label: 'Italian' },
+    { id: 1, checked: false, label: 'Mumbai' },
+    { id: 2, checked: false, label: 'Delhi' },
+    { id: 3, checked: false, label: 'Bangalore' },
   ]);
 
   const [list, setList] = useState(dataList);

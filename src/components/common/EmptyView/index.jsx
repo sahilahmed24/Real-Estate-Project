@@ -3,7 +3,7 @@ import './styles.css';
 
 const EmptyView = () => (
   <div className='emptyView-wrap'>
-    <img src='/images/gif/empty.gif' alt='' />
+    <img src='/images/gif/no-result.gif' alt='no-result gif' />
   </div>
 );
 

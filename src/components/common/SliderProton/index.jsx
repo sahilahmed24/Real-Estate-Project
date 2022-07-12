@@ -8,13 +8,13 @@ const useStyles = makeStyles({
     width: '100%',
   },
   thumb: {
-    color: '#000',
+    color: 'rgba(179, 75, 235)',
   },
   rail: {
-    color: `rgba(0, 0, 0, 0.26)`,
+    color: `rgba(179, 75, 235)`,
   },
   track: {
-    color: '#000',
+    color: 'rgba(179, 75, 235)',
   },
 });
 

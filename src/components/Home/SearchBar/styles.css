@@ -1,7 +1,7 @@
 .searchBar-wrap {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+  border-bottom: 1px solid rgba(123, 64, 232, 0.26);
   padding: 1.5rem 1rem;
 }
 .searchBar-icon {

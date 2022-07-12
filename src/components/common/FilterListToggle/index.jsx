@@ -11,23 +11,23 @@ const useStyles = makeStyles({
   toggle: {
     fontFamily: `'Raleway', sans-serif`,
     fontSize: '.8rem',
-    border: '1px solid rgba(0, 0, 0, 0.12)',
+    border: '1px solid #cbaff2',
     borderRadius: '10px',
     '&.MuiToggleButtonGroup-groupedHorizontal:not(:last-child)': {
       borderRadius: '10px',
     },
     '&.MuiToggleButtonGroup-groupedHorizontal:not(:first-child)': {
       borderRadius: '10px',
-      border: '1px solid rgba(0, 0, 0, 0.12)',
+      border: '1px solid #cbaff2',
     },
     '&.Mui-selected': {
       borderRadius: '10px',
-      background: '#000',
+      background: 'rgb(179, 75, 235)',
       color: '#fff',
     },
     '&.MuiToggleButton-root': {
       '&:hover': {
-        background: '#000',
+        background: '#cbaff2',
         color: '#fff',
       },
     },
