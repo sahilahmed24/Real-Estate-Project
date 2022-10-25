@@ -91,6 +91,7 @@ const Home = () => {
 
   useEffect(() => {
     applyFilters();
+    // eslint-disable-next-line
   }, [selectedRating, selectedCategory, cuisines, searchInput, selectedPrice]);
 
   return (

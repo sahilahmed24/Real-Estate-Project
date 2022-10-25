@@ -133,7 +133,6 @@ export const dataList = [
   {
     id: 7,
     title: 'Flat 01',
-    serviceTime: '1 Rooms',
     rooms: '1',
     bathroom: '1 ',
     square: '455m',
