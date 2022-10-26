@@ -1,63 +1,41 @@
-# Getting Started with Create React App
+# Real-Estate-Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome users and contributors, this is my project based on real estate and is built in `ReactJS`.
+It will provide users
+- Flats available for rent
+- Houses available for rent
+- Filters for choices
+- Awesome UI, etc.
+<hr>
 
-## Available Scripts
+### Glimpse of the Landing Page
+<p align="center">
+<img src="/public/images/readme/welcome.png">
+</p>
 
-In the project directory, you can run:
+Here you can see an awesome User Interface built in `ReactJS`. It is showing houses available for rent with their specifications like:
+- Amount for Rent
+- Number of Rooms
+- No. of Bathrooms
+- Area
+- Address, etc.
+<hr>
 
-### `npm start`
+### Different Filters
+<p align="center" width="50%">
+<img src="/public/images/readme/filters.png">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It has a lot of filters with awesome functionality and user experience. It includes:
+- A price bar for filtering rent of user's choice
+- City
+- Star Ratings
+- Houses or Flats, etc.
+<hr>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### More
+<p align="center" width="50%">
+<img src="/public/images/readme/ui.png">
+</p>
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Don't forgot to show :heart: for this repo by :star:...
